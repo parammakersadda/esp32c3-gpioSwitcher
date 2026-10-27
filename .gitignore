@@ -1,0 +1,16 @@
+*
+!*/
+!*.c
+!*.h
+!*.cpp
+!*.S
+!CMakeLists.txt
+!*.cmake
+!idf_component.yml
+!dependencies.lock
+!sdkconfig.defaults
+!README.md
+!LICENSE
+!.gitignore
+/build/
+/managed_components/
